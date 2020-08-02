@@ -2,7 +2,7 @@
 
 **Ссылка на сообщество в Telegram:** [t.me/PyTorch_ru](https://t.me/PyTorch_ru)
 
-Чат на английском: [t.me/PyTorch_en](https://t.me/PyTorch_en)
+English chat: [t.me/PyTorch_en](https://t.me/PyTorch_en)
 
 <!-- TOC depthFrom:2 -->
 
